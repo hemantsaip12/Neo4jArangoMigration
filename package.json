@@ -1,0 +1,16 @@
+{
+  "name": "anrangone4j",
+  "version": "1.0.0",
+  "description": "migration from neo4j to arango",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "arangojs": "^5.8.0",
+    "fs": "0.0.1-security",
+    "neo4j-driver": "^4.1.0"
+  }
+}
